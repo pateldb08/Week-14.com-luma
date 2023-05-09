@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="15.826">
+  <properties />
+  
+  
+            <testcase name="verifyTheSortByProductNameFilter" time="6.077" classname="com.luma.testsuite.WomenTest" />
+                <testcase name="verifyTheSortByPriceFilter" time="9.749" classname="com.luma.testsuite.WomenTest" />
+      
+</testsuite>
